@@ -1,0 +1,23 @@
+{
+  "name": "backand",
+  "version": "1.0.0",
+  "description": "servidor node com express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1matheusmendes/Responsive-Admin-Dashboard.git#master"
+  },
+  "author": "Matheus Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1matheusmendes/Responsive-Admin-Dashboard/issues"
+  },
+  "homepage": "https://github.com/1matheusmendes/Responsive-Admin-Dashboard/tree/master#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
